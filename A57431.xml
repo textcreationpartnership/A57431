@@ -1,0 +1,168 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case and title of Henry Robinson of London esq unto a deputation and management of both the letter-offices, together with the profits thereunto belonging, deriv'd from the right honourable Charls Lord Stanhop, unto Endymion Porter esq. deceased, and George Porter esq. his son, and from them unto the said Henry Robinson, as it was represented unto the convention sitting at the time of his Majesties happy restoration, which afterwards settled the same upon his Majesty, without any consideration unto the said H. Robinson for the claim and improvement of the said offices from about 3000l per annum to about 30000l per annum, to the undoing the said H. Robinson, his wife and children.</title>
+            <author>Robinson, Henry, 1605?-1664?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1663</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A57431</idno>
+            <idno type="STC">Wing R1666A</idno>
+            <idno type="STC">ESTC R222114</idno>
+            <idno type="EEBO-CITATION">99833344</idno>
+            <idno type="PROQUEST">99833344</idno>
+            <idno type="VID">37820</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A57431)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37820)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2196:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case and title of Henry Robinson of London esq unto a deputation and management of both the letter-offices, together with the profits thereunto belonging, deriv'd from the right honourable Charls Lord Stanhop, unto Endymion Porter esq. deceased, and George Porter esq. his son, and from them unto the said Henry Robinson, as it was represented unto the convention sitting at the time of his Majesties happy restoration, which afterwards settled the same upon his Majesty, without any consideration unto the said H. Robinson for the claim and improvement of the said offices from about 3000l per annum to about 30000l per annum, to the undoing the said H. Robinson, his wife and children.</title>
+                  <author>Robinson, Henry, 1605?-1664?</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1663?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: Henry Robinson.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of the original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Robinson, Henry, 1605?-1664? --  Early works to 1800.</term>
+               <term>Postal service --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="title">
+            <pb facs="tcp:37820:1" rendition="simple:additions"/>
+            <head>The Caſe and Title of <hi>Henry Robinſon</hi> of <hi>London</hi> 
+               <abbr>Eſq</abbr> unto a Deputation and Management of both the <hi>Letter-Offices,</hi> toge<g ref="char:EOLhyphen"/>ther with the profits thereunto belonging, deriv'd from the Right Honourable <hi>Charls</hi> Lord <hi>Stanhop,</hi> unto <hi>Endymion Porter</hi> 
+               <abbr>Eſq</abbr> deceaſed, and <hi>George Porter</hi> 
+               <abbr>Eſq</abbr> his Son, and from them un<g ref="char:EOLhyphen"/>to the ſaid <hi>Henry Robinſon,</hi> as it was repreſented unto the Con<g ref="char:EOLhyphen"/>vention ſitting at the time of his Majeſties happy Reſtoration, which afterwards ſettled the ſame upon his Majeſty, without any conſideration unto the ſaid <hi>H. Robinſon</hi> for the claim and improvement of the ſaid Offices from about 3000 <abbr>l</abbr> 
+               <hi>per annum</hi> to about 30000 <abbr>l</abbr> 
+               <hi>per annum,</hi> to the undoing the ſaid <hi>H. Robin<g ref="char:EOLhyphen"/>ſon,</hi> his Wife and Children.</head>
+            <p>THat the Office of Poſtmaſter General of the Dominions of <hi>England,</hi> is one of the ancienteſt Offices of <hi>England.</hi>
+            </p>
+            <p>That the nominating of all Poſtmaſters, and carriage of all <hi>Letters</hi> both <hi>Inland</hi> and <hi>Forraign,</hi> both of the <hi>Publick</hi> and <hi>Particulars,</hi> are mem<g ref="char:EOLhyphen"/>bers of, and incident and belonging unto the ſaid Office, together with the Profits and Perquiſits thereby accruing; as appears by ancient deeds and Cuſtome beyond the memory of man.</p>
+            <p>That <hi>John</hi> Lord <hi>Stanhop</hi> had a grant of the ſaid Office in the 32. of <hi>Eliz.</hi> 1577. under the Broad-Seal of <hi>England,</hi> and by himſelf his Deputy and Agents enjoyed the carriage of all Letters by <hi>Poſt,</hi> both <hi>Forraign</hi> and <hi>In<g ref="char:EOLhyphen"/>land,</hi> for about 40. years, untill he dyed.</p>
+            <p>That <hi>Charls</hi> Lord <hi>Stanhop,</hi> who is ſtill living, had a reverſion of the ſaid Office, and by himſelf his Deputies and Agents, enjoyed the carri<g ref="char:EOLhyphen"/>age of <hi>all Letters,</hi> until he was illegally diſturbed by one <hi>Mathew Dequeſter,</hi> who having been the Lord <hi>Stanhops</hi> Deputy for the carriage of <hi>Forraign</hi> and <hi>Iriſh Letters,</hi> about 20. years together, under pretence of a grant of a new Office by him obtained, upon untrue ſuggeſtions <hi>for ſervices to be done out of the Kings Dominions</hi> (a reverſion whereof Mr. <hi>William Withe<g ref="char:EOLhyphen"/>rings</hi> then claim'd by) by authority thereof took upon him the carriage of Forraign Letters.</p>
+            <p>That in the year 1624. the ſaid <hi>Charls</hi> Lord <hi>Stanhop</hi> brought his action againſt the ſaid <hi>Dequeſter</hi> for taking upon him the carriage of <hi>Merchants</hi> Letters, and receiving moneys for the Poſtage thereof from <hi>London</hi> to
+<pb n="2" facs="tcp:37820:2"/>
+               <hi>Antwerp,</hi> without the Licenſe, and againſt the will of him the ſaid <hi>Lord Stanhop,</hi> who is Poſtmaſter General, <hi>and recovered a Verdict againſt the ſaid Dequeſter.</hi>
+            </p>
+            <p>That the Parliament in the 4<hi rend="sup">th</hi> of the late King, upon report of a ſelect Committee, taking notice of the ſaid <hi>Dequeſters undue ſuggeſtions</hi> for the gaining of the ſaid Patent, <hi>for ſervices to be done in Forraign Parts, out of the Kings Dominions,</hi> and of the Lord <hi>Stanhops</hi> Verdict againſt <hi>Dequeſter,</hi> did <hi>declare,</hi> and give <hi>Judgment</hi> againſt <hi>Dequeſters</hi> ſaid Patent, in favour of the Lord <hi>Stanhops</hi> ſaid Patent.</p>
+            <p>That the ſaid <hi>Henry Robinſon</hi> and his ſaid Truſtees, have by ſeveral mean Aſſignments lawfully conveyed unto them the Deputation, Ma<g ref="char:EOLhyphen"/>nagement, and profits of the ſaid Offices during the life of the ſaid <hi>Charls</hi> Lord <hi>Stanhop,</hi> who is ſtill living.</p>
+            <p>That the ſaid <hi>Henry Robinſon</hi> was in poſſeſſion of the ſaid Offices at the firſt aſſembling of the Long Parliament.</p>
+            <p>That Mr. <hi>Thomas Witherings</hi> who procured a reverſion of <hi>Dequeſters</hi> Patent, <hi>for ſervices to be done out of the Kings Dominions,</hi> well knowing the invalidity thereof, made over his Intereſt to the Right Honourable <hi>Robert</hi> late Earl of <hi>Warwick,</hi> upon which one Mr. <hi>Pulley</hi> and others found means to have a Male of Forraign Letters to be betrayed into their hands, whereby the ſaid Earl of <hi>Warwick</hi> came to get the poſſeſſion of the For<g ref="char:EOLhyphen"/>raign Letter Office.</p>
+            <p>Hereupon the ſaid <hi>Henry Robinſon</hi> was prevailed upon to call in <hi>Ed<g ref="char:EOLhyphen"/>mund Prideaux</hi> 
+               <abbr>Eſq</abbr> deceaſed, then a Member of the Hon<hi rend="sup">ble</hi> Houſe of Com<g ref="char:EOLhyphen"/>mons, to protect him (as he hop'd) in the more ſure keeping of the Inland Letter Office in <hi>Bartholmew Lane,</hi> &amp; recovery of the Forraign from the ſaid Earl of <hi>Warwick;</hi> but inſtead thereof, the ſaid <hi>Edmund Prideaux</hi> did not only ſuffer the ſaid Earl of <hi>Warwick</hi> quietly to enjoy the ſaid Forraign Office, but removed the Inland Office out of <hi>Bartholmew Lane,</hi> unto a ſe<g ref="char:EOLhyphen"/>queſtred houſe, and took the profits to himſelf, ſaying, that he carryed Letters by the Liberty of the Subject,</p>
+            <p>Thereupon the ſaid <hi>Henry Robinſon,</hi> well knowing that he could deal with the ſaid <hi>Prideaux</hi> at his own weapon <hi>of the Liberty of the Subject,</hi> if it might as well have been permitted him. The ſaid <hi>H. Robinſon</hi> (far before any other undertakers thought thereon) through the in-ſight he had in the ſaid Offices, being well aſſured, <hi>That if he undertook to carry Letters thrice a Week, Whereas the ſaid</hi> Prideaux <hi>carryed but once;</hi> And <hi>if he the ſaid</hi> Robinſon <hi>would take but</hi> 3<hi rend="sup">d</hi> 
+               <hi>for a ſingle Letter, whereas the ſaid</hi> Prideaux <hi>took</hi> 6<hi rend="sup">d</hi>, <hi>that there would be ſent, for time to come, above
+<pb n="3" facs="tcp:37820:2"/>ſix three penny Letters for every ſix penny Letter which had been ſent in the ſaid</hi> Prideaux <hi>his time, reſolved upon ſending thrice a week, and to take but</hi> 3<hi rend="sup">d</hi> 
+               <hi>for a ſingle Letter at the moſt,</hi> and for <hi>Scotland, Ireland,</hi> and Forraign Parts, accordingly, and to make more ſure work, (as he had cauſe to hope) did take the ſubſcriptions of moſt conſiderable Merchants and others, in and about <hi>London, York, New-Caſtle, Exeter, Plymouth, Briſtol,</hi> and other Parts of <hi>England, Scotland, Ireland,</hi> and forraign parts (which are yet ex<g ref="char:EOLhyphen"/>tant to be ſeen) thereby obliging themſelves, ſo far as the Laws of the Land and the Liberty of the Subject did permit, to ſend all their Letters, both Inland and Forraign, unto the ſaid <hi>Henry Robinſon,</hi> whenſoever he would undertake the conveyance of them upon the terms aforeſaid; and in order thereunto the ſaid <hi>Henry Robinſon</hi> ſettled Poſt-Stages up and down from one end of <hi>England</hi> unto the other, provided with ſufficient number of Poſt-horſes for that purpoſe, and made ſeveral Journeys into <hi>France, Flanders, Brabant,</hi> and the <hi>united Provinces,</hi> for treating with his Agents, and ſettling his Correſpondents in Forraign Parts, <hi>all at his own particular coſts and charges;</hi> and juſt as he was ready to publiſh the ſame, and give notice to all perſons, when, and to what places they ſhould be<g ref="char:EOLhyphen"/>gin to bring their Letters; the ſaid Long Parliament on the 21. of March 1649. through misinformation of the ſaid <hi>Prideaux,</hi> made theſe follow<g ref="char:EOLhyphen"/>ing Reſolves, <hi>Viz.</hi>
+            </p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="resolution">
+                        <p>Reſolved, by the Parliament, That the Offices of Poſtmaſter Inland and Forraign, are and ought to be in the ſole Power and diſpoſal of the Common<g ref="char:EOLhyphen"/>wealth.</p>
+                        <p>Reſolved by the Parliament, That it be referred unto the Council of State to conſider of the Offices of Poſtmaſters, and of the intereſt of thoſe perſons who claim any thing therein, and to take into conſideration, how the ſame may be ſettled in the beſt way, for the advantage and ſafety of the Common Wealth, and report their opinions therein to the Houſe, and that they take order for the preſent management thereof in the mean time.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Hereupon (though the ſaid <hi>Prideaux</hi> ſtill continued to manage and en<g ref="char:EOLhyphen"/>joy the profits of the Inland Office) the ſaid <hi>Robinſon,</hi> fearing he might by the power of his oppoſers, be made an offender, was diſabled to proceed further in carrying Letters, both by the liberty of the Subject, and the authority derived unto him from the ſaid <hi>Charls</hi> Lord <hi>Stanhop,</hi> Poſtma<g ref="char:EOLhyphen"/>ſter General of <hi>England,</hi> and the Dominions thereunto belonging.</p>
+            <p>But the <hi>ſaid contrivance of ſending Letters thrice a Week inſtead of
+<pb n="4" facs="tcp:37820:3" rendition="simple:additions"/>once, and taking but</hi> 3<hi rend="sup">d</hi> 
+               <hi>for a ſingle Letter inſtead of</hi> 6<hi rend="sup">d</hi>, <hi>being thus diſcove<g ref="char:EOLhyphen"/>red by the ſaid</hi> Henry Robinſon, <hi>was ſeveral years after indulged by</hi> Oliver <hi>miſcalled Protector, to be put in execution by others, whereby the Office became forthwith improved, and ſo thought worthy to be annexed unto the Crown Revenue.</hi>
+            </p>
+            <p>
+               <hi>The ſaid</hi> Henry Robinſon <hi>therefore,</hi> whoſe Title being ſuch un<g ref="char:EOLhyphen"/>to the management and profits of the ſaid Offices, <hi>and by whoſe contrivance, charge, and trouble, the ſaid Offices had been ſo much improved, as well to the benefit of the ſaid Offices, as to the in<g ref="char:EOLhyphen"/>creaſe of Trade and Correſpondency, to the great content and ac<g ref="char:EOLhyphen"/>commodation of the people in general, having undergone the trou<g ref="char:EOLhyphen"/>ble, vexation, charge and dammage,</hi> of above twenty yeares proſecution and attendance, did then humbly pray to be reliev<g ref="char:EOLhyphen"/>ed therein, and that he might be reſtored to the poſſeſſion and management of both the ſaid Offices, as he was before at the firſt aſſembling of the ſaid long Parliament.</p>
+            <closer>
+               <signed>Henry Robinſon.</signed>
+            </closer>
+            <pb facs="tcp:37820:3"/>
+         </div>
+      </body>
+   </text>
+</TEI>
